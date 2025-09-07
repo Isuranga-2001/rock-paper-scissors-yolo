@@ -1,0 +1,4 @@
+
+# Ignore runs and datasets folders
+runs/
+datasets/
