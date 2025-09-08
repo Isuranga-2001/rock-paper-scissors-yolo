@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['paper', 'rock', 'scissors']
+
+roboflow:
+  workspace: yolov5-yltjw
+  project: rock-paper-scissors-vsir1
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolov5-yltjw/rock-paper-scissors-vsir1/dataset/7
